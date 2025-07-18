@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sarvesh Kumar, a Artificial Intelligence & Machine Learning student with a strong interest in full-stack development and problem-solving. I have experience building web apps using React, JavaScript, and Java, and I love working on clean, efficient code. Whether it's designing UI or writing backend logic, I aim to build things that are both functional and beautiful. I'm currently looking for opportunities to learn and contribute in real-world projects and grow as a developer.
+I'm Sarvesh Kumar, Artificial Intelligence & Machine Learning student with a strong interest in full-stack development and problem-solving. I have experience building web apps using React, JavaScript, and Java, and I love working on clean, efficient code. Whether it's designing UI or writing backend logic, I aim to build things that are both functional and beautiful. I'm currently looking for opportunities to learn and contribute in real-world projects and grow as a developer.
 
 
 ## 🌐 Socials:
